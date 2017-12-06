@@ -1,7 +1,13 @@
 body {
-  background: #000;
+  background: #fff;
+  text-align: center;
+
 }
 
 h1 {
   color: #FF2734;
+}
+
+h2 {
+  color: #000;
 }
