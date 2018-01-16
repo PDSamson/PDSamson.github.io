@@ -22,3 +22,7 @@ ul {
 .me {
   margin: auto;
 }
+
+.nav {
+  display: inline-block;
+}
