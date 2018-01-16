@@ -21,14 +21,6 @@ const showContact = function () {
   $('.me-page').hide()
 }
 
-const showResume = function () {
-  $('.skill-page').hide()
-  $('.contact-page').hide()
-  $('.resume-page').show()
-  $('.projects-page').hide()
-  $('.me-page').hide()
-}
-
 const showProjects = function () {
   $('.skill-page').hide()
   $('.contact-page').hide()
@@ -47,6 +39,5 @@ const showMe = function () {
 
 $('.skills').click(showSkills)
 $('.contact-info').click(showContact)
-$('.resume').click(showResume)
 $('.projects').click(showProjects)
 $('.about-me').click(showMe)
