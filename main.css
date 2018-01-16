@@ -34,6 +34,10 @@ ul {
   margin: auto;
 }
 
+.me-page p {
+  padding-left: 20px;
+}
+
 .navbar p {
     float: left;
     color: #f2f2f2;
