@@ -1,3 +1,6 @@
 'use strict'
 
-require('./scripts/index.js')
+$('.skill-page').hide()
+$('.contact-page').hide()
+$('.resume-page').hide()
+$('.projects-page').hide()
