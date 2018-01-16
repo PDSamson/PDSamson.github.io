@@ -20,6 +20,10 @@ ul {
     text-align: center;
 }
 
+.resume {
+  text-decoration: none;
+}
+
 .me {
   margin: auto;
 }
