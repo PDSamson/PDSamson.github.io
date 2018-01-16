@@ -30,6 +30,7 @@ ul {
 }
 
 .me {
+  float: left;
   margin: auto;
 }
 
