@@ -36,7 +36,9 @@ ul {
 }
 
 .me-page {
-
+  height: 60%;
+  background-color: lightblue;
+  border-radius: 10px;
   margin: 3% 15%;
 }
 
