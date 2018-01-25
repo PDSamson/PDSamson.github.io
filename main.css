@@ -55,4 +55,5 @@ ul {
 .navbar {
     background-color: #333;
     overflow: hidden;
+    margin-bottom: 0;
 }
