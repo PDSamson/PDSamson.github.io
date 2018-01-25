@@ -5,6 +5,7 @@ body {
 
 h1 {
   color: #FF2734;
+  font-family: 'Supermercado One', cursive;
   text-align: center;
 }
 
@@ -32,6 +33,10 @@ ul {
 .me {
   float: left;
   margin: auto;
+}
+
+.me-page {
+  margin: 20%;
 }
 
 .me-page p {
