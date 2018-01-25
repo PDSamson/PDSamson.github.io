@@ -32,13 +32,14 @@ ul {
 
 .me {
   float: left;
+  margin-left: 4%;
+  margin-right: 4%;
 }
 
 .me-page {
   background-color: lightblue;
   border-radius: 10px;
-  /*margin: 3% 15%;*/
-  margin: auto;
+  margin: 3% 15%;
 }
 
 .me-page p {
