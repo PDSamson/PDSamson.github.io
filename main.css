@@ -36,9 +36,13 @@ ul {
 }
 
 .me-page {
+<<<<<<< HEAD
   margin: 5% 15%;
   background-color: lightblue;
   border-radius: 10px;
+=======
+  margin: 3% 15%;
+>>>>>>> styling
 }
 
 .me-page p {
@@ -57,5 +61,4 @@ ul {
 .navbar {
     background-color: #333;
     overflow: hidden;
-    margin-bottom: 0;
 }
