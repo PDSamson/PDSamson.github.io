@@ -37,6 +37,8 @@ ul {
 
 .me-page {
   margin: 5% 15%;
+  background-color: lightblue;
+  border-radius: 10px;
 }
 
 .me-page p {
