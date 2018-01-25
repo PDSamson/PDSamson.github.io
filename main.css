@@ -45,6 +45,12 @@ ul {
   margin-left: 20px;
 }
 
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
 .navbar p {
     float: left;
     color: #f2f2f2;
