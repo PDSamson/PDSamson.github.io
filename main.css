@@ -36,15 +36,15 @@ ul {
 }
 
 .me-page {
-  max-height: 60%;
   background-color: lightblue;
   border-radius: 10px;
   margin: 3% 15%;
-  margin-bottom: 40%;
 }
 
 .me-page p {
+  max-height: 60%;
   margin-left: 20px;
+  margin-bottom: 40%;
 }
 
 .navbar p {
