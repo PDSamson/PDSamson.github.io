@@ -32,7 +32,6 @@ ul {
 
 .me {
   float: left;
-  padding: 6%;
 }
 
 .me-page {
@@ -43,12 +42,6 @@ ul {
 
 .me-page p {
   margin-left: 20px;
-}
-
-.clearfix::after {
-    content: "";
-    clear: both;
-    display: table;
 }
 
 .navbar p {
