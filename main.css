@@ -36,7 +36,7 @@ ul {
 }
 
 .me-page {
-  margin: 5% 15%;
+  margin: 3% 15%;
 }
 
 .me-page p {
@@ -55,5 +55,4 @@ ul {
 .navbar {
     background-color: #333;
     overflow: hidden;
-    margin-bottom: 0;
 }
