@@ -43,8 +43,20 @@ ul {
   margin: 3% 15%;
 }
 
+.skill-page {
+  background-color: lightblue;
+  border-radius: 10px;
+  margin: 3% 15%;
+}
+
 .me-page p {
   padding: 4%
+}
+
+.contact-page {
+  background-color: lightblue;
+  border-radius: 10px;
+  margin: 3% 15%;
 }
 
 .navbar p {
@@ -54,6 +66,10 @@ ul {
     margin: auto;
     text-decoration: none;
     font-size: 17px;
+}
+
+.skill-page ul {
+  padding: 4%
 }
 
 .navbar {
