@@ -81,6 +81,12 @@ ul {
     padding: 0;
     text-decoration: none;
     font-size: 17px;
+    font-family: 'Supermercado One', cursive;
+}
+
+.navbar p:hover {
+    background-color: #555;
+    color: white;
 }
 
 .skill-page ul {
