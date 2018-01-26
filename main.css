@@ -1,9 +1,10 @@
 body {
-  background: #483999;
+  background-color: #483999;
 }
 
 h1 {
-  color: #000;
+  color: #fff;
+  background-color: #f2f2f2;
   font-family: 'Supermercado One', cursive;
   text-align: center;
 }
