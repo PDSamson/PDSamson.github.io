@@ -53,6 +53,10 @@ ul {
   margin: 3% 15%;
 }
 
+.skill-page p {
+  text-align: center;
+}
+
 .container-fluid {
   background: #483999;
   background: -webkit-linear-gradient(#483999, #CC99CC) fixed;
@@ -92,6 +96,11 @@ ul {
 .navbar p:hover {
     background-color: #555;
     color: white;
+}
+
+.skill-header {
+  text-decoration: underline;
+  font-family: 'Supermercado One', cursive;
 }
 
 .skill-page ul {
