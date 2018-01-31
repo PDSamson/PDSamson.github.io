@@ -80,6 +80,11 @@ ul {
   text-align: center;
 }
 
+.foot {
+  position: absolute;
+  bottom: 0px;
+}
+
 .projects-page {
   background-color: lightblue;
   border-radius: 10px;
