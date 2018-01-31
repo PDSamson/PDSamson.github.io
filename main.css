@@ -25,6 +25,10 @@ ul {
   right: 0px;
 }
 
+.contact-page a {
+  margin: 0px 3%;
+}
+
 .navbar a {
     float: left;
     color: #f2f2f2;
