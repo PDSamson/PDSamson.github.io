@@ -51,10 +51,6 @@ ul {
   margin: 3% 15%;
 }
 
-.project-head {
-  padding-top: 2%;
-}
-
 .skill-page {
   background-color: lightblue;
   border-radius: 10px;
@@ -88,6 +84,7 @@ ul {
   background-color: lightblue;
   border-radius: 10px;
   margin: 3% 15%;
+  padding: 3%;
 }
 
 .projects-page a {
@@ -99,6 +96,10 @@ ul {
   border-style: solid;
   border-width: 4px;
   margin-bottom: 2%;
+}
+
+.project-head {
+  padding-top: 5%;
 }
 
 .navbar p {
